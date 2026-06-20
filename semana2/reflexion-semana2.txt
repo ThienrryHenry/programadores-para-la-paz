@@ -6,3 +6,7 @@ el proyecto ya que permite moverse entre carpetas,abrir archivos, crear y borrar
 y cambiar nombres sin depender de menus, agregando que la creacion de por 
 ejemplo varias carpetas es mas rapida crearlas desde la terminal que ir una por una en 
 un menu, esto hace el trabajo mas eficiente.
+Tambien ayuda a entender mejor el proyecto porque con la terminal se ve todo rapido y no se pierde tiempo
+buscando en ventanas, Cuando trabajas en equipo, usar la terminal es muy util para compartir comandos y 
+organizar carpetas igual. Por eso un desarrollador que sabe usarla trabaja mas rapido 
+y se siente mas seguro con su proyecto.
