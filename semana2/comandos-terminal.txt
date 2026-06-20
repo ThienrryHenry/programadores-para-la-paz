@@ -1,4 +1,4 @@
-Los comandos que usado para la creacion de esta actividad son los siguientes:
+Los comandos que utilizado para la creacion de esta actividad son los siguientes:
 cd -  para moverme en cada ubicacion.
 pwd - para saber mi ubicacion.
 ls - para saber que hay dentro de mi ubicacion, dentro de la carpeta actual.
