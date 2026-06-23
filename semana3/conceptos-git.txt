@@ -1,0 +1,13 @@
+explicación corta de los siguientes conceptos:
+
+Repositorio: 
+es el lugar donde se guarda todo el proyecto, con sus archivos y el historial de cambios.
+Es como una carpeta inteligente que recuerda qué se hizo y permite trabajar sobre versiones anteriores.
+
+Commit:
+es el registro que guardamos cuando terminamos un conjunto de cambios.
+Marca un momento específico en el proyecto y deja constancia de qué se modificó.
+
+Push:
+es el paso de enviar esos commits desde nuestra computadora o Codespaces a GitHub.
+Sirve para que el repositorio remoto quede actualizado con lo que ya hicimos localmente.
