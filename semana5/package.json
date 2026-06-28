@@ -1,12 +1,12 @@
 {
   "name": "semana5",
   "version": "1.0.0",
-  "description": "Actividad semana 5 de Node.js y Express",
+  "description": "Servidor Express para la actividad de semana 5",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.22.2"
   }
 }

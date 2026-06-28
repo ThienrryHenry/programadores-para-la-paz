@@ -1,13 +1,11 @@
-Las APIs permiten que las comunidades compartan información de forma rápida y organizada.
-
-Gracias a ellas, los reportes pueden enviarse de manera estructurada y llegar a quien corresponda.
-
-También ayudan a centralizar alertas, mensajes importantes y solicitudes de ayuda.
-
-Un sistema bien diseñado mejora la comunicación entre vecinos, organizaciones y autoridades.
-
-Además, las APIs permiten automatizar procesos y reducir errores humanos en la gestión de datos.
-
-Esto hace que la información sea más confiable, accesible y útil para toda la comunidad.
-
-En resumen, las APIs son una herramienta clave para transformar la comunicación comunitaria en un proceso más ordenado.
+Las APIs permiten que las comunidades compartan información de manera organizada 
+porque hacen que los datos sigan un formato claro. Un servidor con rutas específicas 
+recibe los reportes y los envía a quien los procesa, evitando mensajes desordenados.
+Con una ruta POST se puede enviar un reporte o alerta desde cualquier dispositivo. 
+Esto ayuda a centralizar la comunicación y a que la información no se pierda.
+Además, una API permite que diferentes aplicaciones usen la misma información sin 
+importar si son móviles o páginas web. De esta forma, los reportes comunitarios se 
+pueden almacenar, filtrar y mostrar de manera ordenada.
+En una comunidad, eso mejora la coordinación y permite respuestas más rápidas a problemas. 
+También hace posible que los datos lleguen a las personas indicadas con un formato uniforme 
+y confiable.

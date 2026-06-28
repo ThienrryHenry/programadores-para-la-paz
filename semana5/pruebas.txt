@@ -1,5 +1,21 @@
-Ruta /: muestra un mensaje de bienvenida indicando que el servidor está activo.
+Mis pruebas de la semana 5 (en GitHub Codespaces)
 
-Ruta /saludo: devuelve el mensaje Hola comunidad para comprobar que la ruta funciona.
+1. Servidor activo (/)
+- Link en Codespaces: https://jubilant-sniffle-pjvrx7vvqgfrw4p-3000.app.github.dev/
+- Lo que pasa: El navegador me muestra el mensaje "Servidor activo". Todo bien.
 
-Ruta /mensaje/juan: responde con Hola juan, demostrando el uso de parámetros en la URL.
+2. Saludo a la comunidad (/saludo)
+- Link en Codespaces: https://jubilant-sniffle-pjvrx7vvqgfrw4p-3000.app.github.dev/saludo
+- Lo que pasa: El navegador abre la página y me dice "Hola comunidad".
+
+3. Mensaje dinámico (/mensaje/:nombre)
+- Link en Codespaces: https://jubilant-sniffle-pjvrx7vvqgfrw4p-3000.app.github.dev/mensaje/henry
+- Lo que pasa: Cambié el nombre en el link por el mío y el servidor me respondió 
+"Hola henry".
+
+4. Ruta POST (/reporte)
+- Lo que pasa: Esta ruta no se puede probar directo en el navegador porque es 
+para mandar datos. Puse el puerto en "Public", usé Thunder Client para mandar el 
+mensaje JSON y me devolvió el estado 200 OK con el reporte recibido con éxito.
+
+Nota: Profe, hice toda la tarea usando GitHub Codespaces, por eso los links no son localhost:3000 sino los que me da la nube de GitHub, pero el código es exactamente el mismo.
