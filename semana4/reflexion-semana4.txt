@@ -7,3 +7,6 @@ Porque es importante crear nuestras propias herramientas con tecnologías
 abiertas como Node.js porque nos da libertad y autonomía. Al no depender de 
 grandes empresas ni tener que pagar licencias caras, podemos resolver los 
 problemas reales de nuestro barrio o comunidad usando recursos gratuitos.
+Además, al ser software abierto, cualquiera de nosotros puede meter mano, 
+aprender y mejorar el sistema de forma comunitaria. En resumen: nos permite construir soluciones a nuestra medida, 
+cuidando nuestros propios datos y sin pedirle permiso a nadie.
