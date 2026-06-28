@@ -1,0 +1,11 @@
+Es fundamental que las plataformas tecnológicas reciban reportes ciudadanos de forma 
+estructurada (como en formato JSON) porque esto facilita enormemente el procesamiento 
+automatizado de la información. Cuando los datos llegan ordenados en campos fijos como 
+"tipo" o "descripcion", el sistema de la alcaldía o entidad comunitaria puede clasificarlos,
+ priorizarlos y asignarlos al departamento correcto de manera inmediata sin necesidad de 
+ leer manualmente largos textos desorganizados. Esto optimiza los tiempos de respuesta 
+ ante problemas críticos como fallas de iluminación o daños en la vía pública. Además, 
+ tener datos estructurados permite generar estadísticas visuales y mapas de calor sobre 
+ las incidencias más recurrentes. En conclusión, la estructura de datos transforma las 
+ quejas individuales en información accionable para mejorar la toma de decisiones y el 
+ bienestar de la comunidad.
