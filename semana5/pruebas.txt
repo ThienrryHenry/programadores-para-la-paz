@@ -1,0 +1,5 @@
+Ruta /: muestra un mensaje de bienvenida indicando que el servidor está activo.
+
+Ruta /saludo: devuelve el mensaje Hola comunidad para comprobar que la ruta funciona.
+
+Ruta /mensaje/juan: responde con Hola juan, demostrando el uso de parámetros en la URL.
