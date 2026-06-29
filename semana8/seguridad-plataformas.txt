@@ -1,0 +1,5 @@
+1. No exponer datos personales de los miembros de la comunidad en espacios públicos.
+2. Proteger credenciales de acceso mediante el uso de contraseñas robustas y únicas.
+3. Usar conexiones seguras (HTTPS) para cifrar los datos transferidos en la plataforma.
+4. Registrar y monitorear los accesos al panel de administración para detectar actividad sospechosa.
+5. Limitar el acceso a información sensible únicamente a los roles estrictamente necesarios.
