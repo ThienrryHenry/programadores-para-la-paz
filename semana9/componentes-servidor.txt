@@ -1,0 +1,5 @@
+Sistema operativo: Es la capa de software base (en Codespaces, un contenedor Linux en la nube) que administra los recursos de hardware virtuales y permite la ejecución de procesos.
+Node.js: Entorno de ejecución para JavaScript en el servidor que procesa el código de fondo y maneja las solicitudes HTTP entrantes de manera asíncrona.
+Aplicación server.js: El script principal que contiene la lógica del negocio de nuestra app, definiendo las rutas de acceso de los usuarios ('/' y '/estado') y sus respectivas respuestas.
+Puerto: Es la puerta de enlace lógica (puerto 3000) asignada en el servidor para escuchar el tráfico de la aplicación web y diferenciarlo de otros servicios del sistema.
+Logs: El historial de eventos o mensajes de texto cronológicos generados en la terminal que permiten monitorear la salud del servidor, registrar errores y rastrear solicitudes de usuarios.

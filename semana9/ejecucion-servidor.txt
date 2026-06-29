@@ -1,0 +1,7 @@
+Al ejecutar el comando 'node server.js' dentro del entorno de GitHub Codespaces, el servidor de Node.js inicia activamente en el puerto 3000 de la máquina virtual en la nube. En la terminal se imprime el mensaje: "Servidor ejecutándose en puerto 3000 dentro de la nube".
+
+Dado que estamos trabajando en un entorno en la nube (Codespaces) y no en una máquina local, el sistema detecta la apertura del puerto 3000 y genera una URL externa redireccionada (un enlace web seguro provisto por GitHub). Al hacer clic en esa URL provista por Codespaces e ingresar a la ruta '/estado', el servidor en la nube procesa la solicitud de forma remota y retorna con éxito el siguiente JSON en pantalla:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

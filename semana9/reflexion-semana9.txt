@@ -1,0 +1,10 @@
+La estabilidad y seguridad de un servidor son cruciales para las plataformas tecnológicas comunitarias 
+porque garantizan que las herramientas de participación y comunicación estén disponibles cuando la 
+población las necesite. Los procesos participativos dependen enteramente de la confianza; si un servidor 
+se cae constantemente, se interrumpe la toma de decisiones y se genera una percepción de abandono o vulnerabilidad 
+tecnológica. Además, una configuración segura y un monitoreo constante mediante logs permiten prevenir 
+ataques cibernéticos que pretendan silenciar o alterar los datos de la comunidad. En entornos donde se 
+coordinan acciones colectivas o se resguarda información sensible de usuarios locales, la continuidad del 
+servicio se vuelve un mecanismo de protección social. Por lo tanto, asegurar que Express, Node.js y los puertos 
+del servidor funcionen de manera robusta no es solo un estándar técnico de calidad, sino un compromiso ético y político 
+para sostener y proteger los canales democráticos del tejido comunitario.
