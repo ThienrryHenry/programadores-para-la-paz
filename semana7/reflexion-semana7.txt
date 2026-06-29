@@ -1,0 +1,11 @@
+Es fundamental que las comunidades cuenten con plataformas
+tecnológicas para registrar y consultar incidencias porque
+democratiza la gestión pública y mejora la calidad de vida local. 
+Estas herramientas actúan como un canal directo y transparente entre 
+los ciudadanos y las entidades responsables, optimizando los tiempos de 
+respuesta ante problemas críticos como daños de infraestructura o acumulación 
+de residuos. Al centralizar los datos en una API, se facilita el seguimiento 
+real de cada caso, evitando que las solicitudes se pierdan en la burocracia tradicional. 
+Además, el acceso público a estos reportes fomenta la participación comunitaria, promueve la
+rendición de cuentas y permite identificar de manera analítica cuáles son las zonas que
+ requieren mayor atención o inversión prioritaria.

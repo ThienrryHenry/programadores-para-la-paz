@@ -1,0 +1,16 @@
+Al realizar una petición POST a la ruta de mi entorno en la nube:
+https://literate-space-waddle-g445x5qr659q3pgrw-3000.app.github.dev/reportes
+enviando un objeto JSON, el servidor en Codespaces recibe los datos en el body, genera un ID único e incremental, y los almacena temporalmente en el array en memoria.
+
+Al consultar la misma ruta mediante el método GET desde el cliente HTTP, el servidor web de Express responde exitosamente devolviendo el array de objetos actualizado en formato JSON:
+
+[
+      {
+            "id": 1,
+                "tipo": "Infraestructura",
+                    "descripcion": "Daño en alumbrado público"
+      }
+]
+
+      }
+]
