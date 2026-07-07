@@ -6,8 +6,10 @@ Porque sin la capacidad de registrar reportes la plataforma no tiene datos con
 los cuales trabajar, y la alerta en Telegram asegura que el equipo se entere rápido de 
 las emergencias sin tener que estar revisando la web a cada minuto.
 
-3. Definición de Terminado:
-Una tarea se considera terminada si cumple con los siguientes criterios:
+3. Definición de Terminado: Cuando cumple criterios, fue revisada y tiene evidencia.
+
+----Escribe una definición simple de terminado con al menos 3 criterios.
+Tambien podria decir que una tarea se considera terminada si cumple con los siguientes criterios:
 - El código funciona correctamente sin lanzar errores en la consola.
 - Se realizaron pruebas manuales exitosas simulando ser el usuario.
 - El código limpio quedó guardado y registrado en Git (Commit).
