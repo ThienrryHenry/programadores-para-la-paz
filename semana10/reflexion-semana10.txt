@@ -1,0 +1,17 @@
+¿Por qué las metodologías ágiles, la automatización y canales como 
+Telegram pueden ayudar a organizar mejor una comunidad o un proceso de 
+participación ciudadana?
+
+Las metodologías ágiles, la automatización con herramientas como n8n y 
+canales de comunicación como Telegram son fundamentales para organizar 
+procesos de participación ciudadana porque transforman el caos de los 
+reclamos individuales en un sistema transparente, predecible y medible. 
+El uso de un backlog e iteraciones cortas le permite a los comités comunitarios 
+priorizar los problemas más urgentes y entregar soluciones visibles rápidamente, 
+evitando el desgaste y la frustración vecinal. Por otro lado, la automatización 
+quita la carga administrativa de estar avisando manualmente cada avance; 
+un flujo en n8n puede notificar al instante a un canal de Telegram sobre nuevos 
+incidentes o cambios de estado sin costo alguno. Esto permite el acceso a la 
+información en tiempo real, mantiene a la comunidad conectada en una app que ya 
+usan a diario, y genera una veeduría social basada en datos reales, todo esto 
+cuidando la privacidad al no exponer información sensible en los chats públicos.

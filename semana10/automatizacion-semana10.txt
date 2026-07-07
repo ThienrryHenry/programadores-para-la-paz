@@ -1,0 +1,21 @@
+Pregunta 9 — Diseñar una automatización simple
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un nodo "Webhook" o "Form Trigger" cada vez que un 
+ciudadano completa y envía con éxito un formulario de reporte comunitario en la página web.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviará el siguiente mensaje genérico a un grupo de coordinación:
+"¡Atención equipo! Se ha registrado un NUEVO REPORTE COMUNITARIO en el sistema.
+ID del reporte: {{ $json.id }}
+Categoría: {{ $json.categoria }}
+Por favor, ingresen a la plataforma oficial para revisar los detalles del caso y comenzar 
+el seguimiento."
+
+3. ¿Qué información NO debería enviarse por seguridad?
+Por motivos de privacidad y seguridad de la comunidad, bajo ninguna circunstancia se 
+enviarán por Telegram:
+- Nombres o apellidos completos de los ciudadanos.
+- Números de documento de identidad o cédulas.
+- Direcciones exactas de hogares o teléfonos de contacto.
+- Contraseñas, tokens o claves de la API.

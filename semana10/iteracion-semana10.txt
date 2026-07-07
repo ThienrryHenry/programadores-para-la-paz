@@ -1,0 +1,13 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+Haría primero la tarea 1 (registrar el reporte) y la tarea 2 (recibir la alerta en Telegram).
+
+2. ¿Por qué son las más importantes?
+Porque sin la capacidad de registrar reportes la plataforma no tiene datos con 
+los cuales trabajar, y la alerta en Telegram asegura que el equipo se entere rápido de 
+las emergencias sin tener que estar revisando la web a cada minuto.
+
+3. Definición de Terminado:
+Una tarea se considera terminada si cumple con los siguientes criterios:
+- El código funciona correctamente sin lanzar errores en la consola.
+- Se realizaron pruebas manuales exitosas simulando ser el usuario.
+- El código limpio quedó guardado y registrado en Git (Commit).

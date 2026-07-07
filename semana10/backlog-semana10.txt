@@ -1,0 +1,13 @@
+HISTORIAS DE USUARIO - PLATAFORMA COMUNITARIA
+
+[ALTA PRIORIDAD]
+1. Como vecino afectado quiero registrar un reporte en el sistema para 
+dejar evidencia de un problema en mi comunidad.
+
+[MEDIA PRIORIDAD]
+2. Como coordinador de la comunidad quiero recibir una alerta automática 
+en Telegram cuando haya un nuevo reporte para revisarlo de inmediato.
+
+[BAJA PRIORIDAD]
+3. Como miembro del equipo de soporte quiero poder cambiar el estado del 
+reporte a Solucionado para llevar un control visual de los avances.
