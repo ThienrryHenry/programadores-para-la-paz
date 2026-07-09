@@ -1,0 +1,62 @@
+ESTRUCTURA DE LAS ENTIDADES (GUÍA)
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar las causas comunitarias, proyectos o necesidades 
+del barrio que serán visibles en la plataforma para que los 
+vecinos las conozcan.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Propósito:
+Registrar los apoyos, firmas o votos digitales que recibe 
+cada causa para hacerle seguimiento a la participación y saber 
+qué proyectos quiere la gente.
+
+
+
+___________________
+
+Entidad: Causa
+
+Datos:
+- id: 10
+- titulo: Arreglo de las luminarias de la cancha de microfútbol
+- descripcion: La cancha principal del barrio está a oscuras 
+desde hace dos semanas. Necesitamos gestionar con la alcaldía 
+el cambio de bombillos para que los muchachos puedan jugar en la 
+noche de forma segura.
+- fecha: 2026-07-08
+
+Propósito del registro:
+Almacenar de forma pública que el Barrio El Progreso necesita 
+iluminación en su cancha deportiva para que otros vecinos se 
+enteren y se sumen.
+
+
+Entidad: Apoyo
+
+Datos:
+- id: 501
+- causa_id: 10
+- usuario: pipe_martinez99
+- fecha: 2026-07-09
+
+Propósito del registro:
+Dejar constancia de que el usuario "pipe_martinez99" respalda la 
+solicitud de las luminarias, vinculando su apoyo directamente 
+con la causa número 10.

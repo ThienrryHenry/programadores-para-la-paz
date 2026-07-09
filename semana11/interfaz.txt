@@ -1,0 +1,16 @@
+Estructura de la Interfaz Básica:
+
+1. Sección de Registro: Formulario interactivo con campos de 
+texto para 'Título', 'Descripción' y un selector de 'Fecha' 
+para que los ciudadanos propongan una nueva causa.
+2. Muro Comunitario: Una vista limpia en forma de lista o 
+tarjetas (cards) donde se muestran todas las causas disponibles 
+creadas por los vecinos.
+3. Zona de Interacción: Cada causa del muro incluye un botón 
+visible que dice "Apoyar Causa".
+4. Marcador Dinámico: Al lado del botón, un contador digital 
+que se actualiza en tiempo real mostrando el total de apoyos 
+que tiene la causa.
+
+La interfaz prioriza la facilidad de uso y no muestra datos 
+privados de quienes apoyan.

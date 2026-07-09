@@ -1,0 +1,12 @@
+El login en una aplicación es el proceso de verificación que 
+permite confirmar la identidad de un usuario mediante 
+credenciales (como correo y contraseña) antes de darle acceso. 
+
+Algunas rutas deben estar protegidas porque manejan acciones 
+delicadas, como borrar causas o ver datos internos, que no 
+deben estar disponibles para cualquiera. 
+
+En una plataforma pública jamás se debe exponer 
+información sensible como contraseñas en texto plano, 
+números de identificación personal, direcciones exactas de los 
+ciudadanos, tokens de sesión o claves de API en el código.

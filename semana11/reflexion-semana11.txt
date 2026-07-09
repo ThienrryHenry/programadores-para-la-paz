@@ -1,0 +1,12 @@
+Una plataforma tecnológica enfocada en la participación 
+ciudadana tiene la responsabilidad ética y técnica de 
+proteger a sus usuarios. La base de datos es fundamental 
+porque permite estructurar las propuestas de la comunidad y 
+guardar el progreso sin que se pierda la información. 
+Por su parte, la autenticación asegura que la participación 
+sea democrática y real, evitando ataques automatizados (bots) 
+que alteren las votaciones o apoyos. Finalmente, la protección 
+estricta de la información previene que datos personales caigan 
+en manos equivocadas, garantizando un entorno seguro y de
+confianza donde los ciudadanos se sientan libres de participar 
+sin temor a que se vulnere su privacidad.
