@@ -1,0 +1,15 @@
+Diseño de Automatización de Notificaciones
+
+1. Evento que activa la automatización:
+Se registra un nuevo "Apoyo" en una causa activa dentro del sistema.
+
+2. Mensaje que se envía de forma automática (vía Telegram):
+"📢 ¡Nuevo apoyo registrado! La causa 'Mejoramiento del alumbrado en 
+la Calle 10' acaba de recibir un nuevo respaldo comunitario. 
+¡Sigue sumando voces!"
+
+3. Información que NO debe enviarse por seguridad y privacidad:
+No se debe enviar el nombre completo de la persona que apoyó, ni su 
+documento de identidad (cédula), teléfono, correo electrónico, dirección 
+física, ni ningún comentario de carácter privado o sensible que ponga 
+en riesgo sus datos personales.

@@ -1,0 +1,51 @@
+======================================================================
+DISEÑO DE MODELO DE DATOS - "PETICIÓN EN 3 CLICS"
+======================================================================
+
+----------------------------------------------------------------------
+ENTIDAD: Causa
+----------------------------------------------------------------------
+Atributos:
+- id: 1
+- titulo: "Reparación de luminarias en la Calle 10 (Sector Norte)"
+- descripcion: "Solicitud formal a la alcaldía para reparar 5 postes de alumbrado público que se encuentran apagados desde hace un mes, afectando la seguridad de los vecinos por las noches."
+- fecha: 2026-07-14 08:00:00
+
+----------------------------------------------------------------------
+ENTIDAD: Apoyo
+----------------------------------------------------------------------
+Atributos del registro 1:
+- id: 101
+- causa_id: 1
+- nombre: "Juan Pérez García"
+- fecha: 2026-07-14 09:15:22
+
+Atributos del registro 2:
+- id: 102
+- causa_id: 1
+- nombre: "María Claudia Restrepo"
+- fecha: 2026-07-14 10:30:05
+
+Atributos del registro 3:
+- id: 103
+- causa_id: 1
+- nombre: "Andrés Felipe Mendoza"
+- fecha: 2026-07-14 11:12:40
+
+======================================================================
+EXPLICACIÓN DEL PROPÓSITO DE CADA ENTIDAD
+======================================================================
+
+1. Entidad "Causa":
+Sirve para almacenar la información de las diferentes iniciativas o 
+peticiones creadas por la comunidad. Centraliza los datos del problema 
+(título, descripción detallada y fecha de creación) para que puedan ser 
+visualizados por otros usuarios y sirvan de base para generar el 
+documento formal final.
+
+2. Entidad "Apoyo":
+Sirve para registrar la firma de respaldo de cada ciudadano a una causa 
+específica. Almacena la relación mediante el campo 'causa_id' 
+(para saber a qué petición apoya), el nombre del firmante y el momento 
+exacto en el que otorgó su apoyo, permitiendo al sistema contar las 
+firmas acumuladas de manera automatizada.

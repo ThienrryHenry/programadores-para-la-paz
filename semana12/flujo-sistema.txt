@@ -1,0 +1,15 @@
+Flujo del Sistema: Petición en 3 Clics
+
+Pasos del funcionamiento:
+1. Un líder comunitario ingresa a la plataforma y registra una 
+nueva causa (por ejemplo: Reparación del parque del barrio).
+2. La causa se guarda de forma segura en la base de datos del 
+sistema con un estado Activa.
+3. Los vecinos de la comunidad entran a la página de la causa 
+y hacen clic en Apoyar ingresando únicamente su nombre.
+4. El servidor del sistema recibe cada apoyo, lo asocia a la 
+causa correspondiente y actualiza el contador de firmas.
+5. Al alcanzar la meta de apoyos o al cerrar el plazo, el sistema 
+junta todos los datos y genera de forma automática un documento 
+formal en formato PDF con la petición y el listado de apoyos.
+
